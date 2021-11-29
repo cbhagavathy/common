@@ -1,0 +1,2 @@
+#To find the words present in one file against another file.
+fgrep -w -o -f "words.txt" Infranet.properties
